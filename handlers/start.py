@@ -30,11 +30,13 @@ def register_handlers(app: Client):
 👋 I am ɪɴᴅɪᴀɴ ꜱᴇᴄʀɪᴛʏ 🤖 
 
 Highlights:
-─────────────────────────────
-- Smart Anti-Spam & Link Shield
-- Adaptive Lock System (URLs, Media, Language & more)
-- Modular & Scalable Protection
-- Sleek UI with Inline Controls
+────────────────────────────
+    - your Group Help Bot!  
+- I keep your groups safe, organized & spam-free.  
+    
+- ⚡ Features: Moderate chats, auto rules, welcome messages, activity tracking, anti-cheater, remove deleted accounts, force sub & force add.  
+    
+- Add me to your Supergroup and promote me as Admin to start!  
 
 » More New Features coming soon ...
 """
