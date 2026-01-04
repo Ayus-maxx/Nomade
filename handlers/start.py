@@ -27,7 +27,7 @@ def register_handlers(app: Client):
 
    ✨ Hello {user}! ✨
 
-👋 I am Nomad 🤖 
+👋 I am ɪɴᴅɪᴀɴ ꜱᴇᴄʀɪᴛʏ 🤖 
 
 Highlights:
 ─────────────────────────────
@@ -40,13 +40,13 @@ Highlights:
 """
 
         buttons = InlineKeyboardMarkup([
-            [InlineKeyboardButton("⚒️ Add to Group ⚒️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+            [InlineKeyboardButton("⚒️ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴩ ⚒️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [
                 InlineKeyboardButton("⌂ Support ⌂", url=SUPPORT_GROUP),
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={OWNER_ID}"),
+                InlineKeyboardButton("※ 𝐎𝐖𝐍𝐄𝐑 ※", url=f"tg://user?id={OWNER_ID}"),
                 InlineKeyboardButton("Repo", url="https://github.com/LearningBotsOfficial/Nomade"),
                 
             ],
