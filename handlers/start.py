@@ -46,7 +46,7 @@ Highlights:
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ 𝐎𝐖𝐍𝐄𝐑 ※", url=f"tg://user?id={8211189367}"),
+                InlineKeyboardButton("※ 𝐎𝐖𝐍𝐄𝐑 ※", url=f"tg://user?id={}"),
                 InlineKeyboardButton("Repo", url="https://github.com/Ayus-maxx/Nomade"),
                 
             ],
