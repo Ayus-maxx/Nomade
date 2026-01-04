@@ -46,8 +46,8 @@ Highlights:
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ 𝐎𝐖𝐍𝐄𝐑 ※", url=f"tg://user?id={OWNER_ID}"),
-                InlineKeyboardButton("Repo", url="https://github.com/LearningBotsOfficial/Nomade"),
+                InlineKeyboardButton("※ 𝐎𝐖𝐍𝐄𝐑 ※", url=f"tg://user?id={8211189367}"),
+                InlineKeyboardButton("Repo", url="https://github.com/Ayus-maxx/Nomade"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
